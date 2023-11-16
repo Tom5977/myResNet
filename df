@@ -1,0 +1,8 @@
+2410.4 examples/sec on cuda:0
+ total time 414.8751485347748
+混合精度：
+4445.5 examples/sec on cuda:0
+ total time 224.94867825508118
+v2 Sequential:
+4136.0 examples/sec on cuda:0
+ total time 241.7777602672577
